@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN And MEAN STACK**
 
 - 📫 How to reach me **hmichaelsintayehu@gmail.com**
 
